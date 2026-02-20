@@ -89,3 +89,18 @@ Standby : 20-02-2026 21.00
 Type : CDDL
 
 ini ada pertukaran unit cutt off jam 22.00 memakai unit yang sudah standby di BTN ya pak🙏
+
+
+
+*REVISI UNIT DPK(Pengganti unit B 9981 TXV)*
+
+
+DATA MUAT JNT (AB CARGO)
+Tgl : 20-02-2026
+Nopol : B 9279 SXW 
+Nama : Dody
+No telp :  081326155355
+Rute : BTN-DPK
+Cut Off : 06.00
+Standby : 20-02-2026 21.00
+Type : CDDL

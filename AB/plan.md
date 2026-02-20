@@ -262,6 +262,7 @@ Rute : BTN-DPK
 Cut Off : 06.00
 Standby : 20-02-2026 21.00
 Type : CDDL SXW
+
 Nama : Dedi Is
 No telp : +62 897-9711-804
 Rute : BTN-BKI
